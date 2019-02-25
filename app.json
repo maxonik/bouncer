@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "bouncer",
+  "scripts": {
+    "postdeploy": "gulp run"
+  },
+  "stack": "heroku-18"
+}
